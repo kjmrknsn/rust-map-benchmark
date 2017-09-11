@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Keiji Yoshida <kjmrknsn@gmail.com"]
 
 [dependencies]
+rand = "0.3.16"
+fnv = "1.0.5"
